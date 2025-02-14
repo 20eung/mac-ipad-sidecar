@@ -14,10 +14,9 @@
   ![sidecar-off.png](/Files/sidecar-off.png)
 
 ### 3. SideCar로 사용할 iPad 이름 확인 및 SideCar 연결 확인
-- 시스템 설정 >> 디스플레이 >> 디스플레이 추가에서 iPad 이름 확인
+- 시스템 설정 >> 디스플레이 >> 디스플레이 추가에서 iPad 이름 확인 <br>
   ![display-add.png](/Files/display-add.png)
-
-- 디스플레이 추가 후 연결해보기
+- 디스플레이 추가 후 연결해보기 <br>
   ![display-add-test.png](/Files/display-add-test.png)
 
 ### 4. SideCar 자동 연결 프로그램 내려받기 및 iPad 이름으로 파일 이름 변경
