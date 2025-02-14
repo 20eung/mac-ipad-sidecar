@@ -27,23 +27,20 @@
 
 ### 5. SideCar 자동 연결 프로그램 실행 테스트와 경고 메시지 해결
 - SideCar 자동 연결 프로그램을 처음 실행하면 게이트키퍼에서 경고창이 뜨면 `확인` 클릭
-- 시스템 설정 >> 개인정보 보호 및 보안 >> 보안 >> `그래도 열기` 클릭
+- 시스템 설정 >> 개인정보 보호 및 보안 >> 보안 >> `그래도 열기` 클릭 <br>
   ![sidecar-app-open-security-ignore.png](/Files/sidecar-app-open-security-ignore.png)
-
 - 관리자 암호 입력 후 `설정 수정` 클릭
 - 다시 게이트키퍼 경고창이 뜨면 `열기` 클릭하면 2개의 경고창이 뜸
 - `AppleScript 실행` 경고 메시지는 '확인' 클릭
-- `손쉬운 사용 접근 권한` 경고 메시지는 `시스템 설정 열기` 클릭 후 SideCar 자동 연결 프로그램을 켬
+- `손쉬운 사용 접근 권한` 경고 메시지는 `시스템 설정 열기` 클릭 후 SideCar 자동 연결 프로그램을 켬 <br>
   ![sidecar-app-accessibility-permit.png](/Files/sidecar-app-accessibility-permit.png)
-
 - 시스템 설정 변경이므로 관리자 암호 입력 후 `설정 수정` 클릭
 - 시스템 설정 >> 개인정보 보호 및 보안 >> 손쉬운 사용
 - 손쉬운 사용 설정 마친 후 다시 SideCar 자동 연결 프로그램을 실행하면 `System Events`를 제어하려고 한다는 경고창이 뜨면 `확인` 클릭
 - `시스템 설정`을 제어하려고 한다는 경고창이 뜨면 `확인` 클릭
 - 잠시 후 화면이 깜빡이며 SideCar에 연결이 되고 시스템 설정은 자동으로 종료됨
-- 시스템 설정 >> 개인정보 보호 및 보안 >> 자동화
+- 시스템 설정 >> 개인정보 보호 및 보안 >> 자동화 <br>
   ![sidecar-app-accessibility-automation.png](/Files/sidecar-app-accessibility-automation.png)
-
 - 모든 설정 완료 후 SideCar 자동 연결 프로그램 종료 후 다시 실행하여 경고메시지 없이 SideCar에 연결되는지 확인
 
 ### 6. FileVault 끄기 및 자동 로그인 설정
@@ -55,15 +52,14 @@
 - 시스템 설정을 변경하는 것이므로 관리자 암호를 입력한 후 `잠금 해제` 클릭
 - FileVault를 정말 끌 것인지 물어보는데 `암호화 끄기` 클릭
 - 시스템 설정 종료 후 다시 실행
-- 시스템 설정 >> 사용자 및 그룹 >> 다음으로 자동 로그인 >> 계정 선택
-  ![auto-login.png](/Files/auto-login.png)
-  
+- 시스템 설정 >> 사용자 및 그룹 >> 다음으로 자동 로그인 >> 계정 선택 <br>
+  ![auto-login.png](/Files/auto-login.png)  
 - 시스템 설정을 변경하는 것이므로 관리자 암호를 입력한 후 `잠금 해제` 클릭
 - 자동 로그인 계정의 암호를 입력하고 `확인` 클릭
 
 ### 7. SideCar 자동 연결 프로그램을 로그인 자동 실행 항목에 등록
 - 시스템 설정 >> 일반 >> 로그인 항목 및 확장 프로그램 >> 로그인 시 열기 >> `+`
-- 응용 프로그램에서 SideCar 자동 연결 프로그램을 추가
+- 응용 프로그램에서 SideCar 자동 연결 프로그램을 추가 <br>
   ![sidecar-app-login-items.png](/Files/sidecar-app-login-items.png)
 
 ### 8. 최종 테스트
