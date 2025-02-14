@@ -74,3 +74,8 @@
 	- 전원을 켜고 테스트 진행
 	- SideCar 연결시도 음성 안내 후 iPad에서 macOS 화면 보이면 정상
 	- SideCar 연결 전에 iPad를 켜서 잠금해제 상태를 유지하는 것이 좋음
+
+---
+## Reference
+1. https://youtu.be/Iz-xkxqjTeg?si=KakZrRgmqhRVJwgX
+ 
