@@ -5,23 +5,19 @@
 ### 1. macOS Monterey 12.6 버전부터 SideCar에 연결하기 위해서는 반드시 HDMI 또는 Thunderbolt를 통해 **모니터 연결 필요**
 - 반드시 필요한 준비물: HDMI 더미
 - 대략 1500원선에서 구입가능하며, 작은 크기로 구매
-
   ![hdmi-dummy.png](/Files/hdmi-dummy.png)
 
 ## macOS 설정하기
 ### 2. 유니버설 컨트롤(Universal Control) 끄기
 - 유니버설 컨트롤이 켜져있는 경우 사이드카(SideCar) 연결이 안됨
 - 시스템 설정 > 디스플레이 > 고급... > SideCar Off
-
   ![sidecar-off.png](/Files/sidecar-off.png)
 
 ### 3. SideCar로 사용할 iPad 이름 확인 및 SideCar 연결 확인
 - 시스템 설정 >> 디스플레이 >> 디스플레이 추가에서 iPad 이름 확인
-
   ![display-add.png](/Files/display-add.png)
 
 - 디스플레이 추가 후 연결해보기
-
   ![display-add-test.png](/Files/display-add-test.png)
 
 ### 4. SideCar 자동 연결 프로그램 내려받기 및 iPad 이름으로 파일 이름 변경
@@ -33,14 +29,12 @@
 ### 5. SideCar 자동 연결 프로그램 실행 테스트와 경고 메시지 해결
 - SideCar 자동 연결 프로그램을 처음 실행하면 게이트키퍼에서 경고창이 뜨면 `확인` 클릭
 - 시스템 설정 >> 개인정보 보호 및 보안 >> 보안 >> `그래도 열기` 클릭
-
   ![sidecar-app-open-security-ignore.png](/Files/sidecar-app-open-security-ignore.png)
 
 - 관리자 암호 입력 후 `설정 수정` 클릭
 - 다시 게이트키퍼 경고창이 뜨면 `열기` 클릭하면 2개의 경고창이 뜸
 - `AppleScript 실행` 경고 메시지는 '확인' 클릭
 - `손쉬운 사용 접근 권한` 경고 메시지는 `시스템 설정 열기` 클릭 후 SideCar 자동 연결 프로그램을 켬
-
   ![sidecar-app-accessibility-permit.png](/Files/sidecar-app-accessibility-permit.png)
 
 - 시스템 설정 변경이므로 관리자 암호 입력 후 `설정 수정` 클릭
@@ -49,7 +43,6 @@
 - `시스템 설정`을 제어하려고 한다는 경고창이 뜨면 `확인` 클릭
 - 잠시 후 화면이 깜빡이며 SideCar에 연결이 되고 시스템 설정은 자동으로 종료됨
 - 시스템 설정 >> 개인정보 보호 및 보안 >> 자동화
-
   ![sidecar-app-accessibility-automation.png](/Files/sidecar-app-accessibility-automation.png)
 
 - 모든 설정 완료 후 SideCar 자동 연결 프로그램 종료 후 다시 실행하여 경고메시지 없이 SideCar에 연결되는지 확인
@@ -72,7 +65,6 @@
 ### 7. SideCar 자동 연결 프로그램을 로그인 자동 실행 항목에 등록
 - 시스템 설정 >> 일반 >> 로그인 항목 및 확장 프로그램 >> 로그인 시 열기 >> `+`
 - 응용 프로그램에서 SideCar 자동 연결 프로그램을 추가
-
   ![sidecar-app-login-items.png](/Files/sidecar-app-login-items.png)
 
 ### 8. 최종 테스트
