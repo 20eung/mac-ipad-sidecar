@@ -5,7 +5,7 @@
 ### 1. macOS Monterey 12.6 버전부터 SideCar에 연결하기 위해서는 반드시 HDMI 또는 Thunderbolt를 통해 **모니터 연결 필요**
 - 반드시 필요한 준비물: HDMI 더미
 - 대략 1500원선에서 구입가능하며, 작은 크기로 구매
-  ![hdmi-dummy.png](/Files/hdmi-dummy.png)
+![hdmi-dummy.png](/Files/hdmi-dummy.png)
 
 ## macOS 설정하기
 ### 2. 유니버설 컨트롤(Universal Control) 끄기
