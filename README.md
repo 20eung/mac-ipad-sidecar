@@ -1,4 +1,4 @@
-# macOS Sonama 14에서 Mac mini에서 iPad를 단일 모니터로 사용하는 방법
+# macOS Sonama 14 Mac mini에서 iPad를 단일 모니터로 사용하는 방법
 
 ## 반드시 필요한 준비물
 
